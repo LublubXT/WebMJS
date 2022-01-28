@@ -1,2 +1,2 @@
 # WebMJS
-Node JS | Express website CMS
+Node JS and Express website CMS.
